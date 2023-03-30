@@ -1,0 +1,7 @@
+db/
+
+.env
+
+success_init
+
+.idea/
